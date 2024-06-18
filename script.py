@@ -37,7 +37,6 @@ def update(quantity, price, item):
     con.commit()
     con.close()
 
-
 create_table()
 #insert("Wine Glass", 10, 5)
 #delete()
